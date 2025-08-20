@@ -47,6 +47,5 @@ It integrates flight, passenger, and ticketing data to create an interactive das
 
 ---
 
-##  Dashboard Preview
-(Add screenshots from your PDF here in `/screenshots/` folder)
+
 
